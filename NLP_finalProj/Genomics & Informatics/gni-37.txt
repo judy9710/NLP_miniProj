@@ -1,0 +1,3 @@
+Recent advances in Bayesian inference of isolation-with-migration models
+
+Isolation-with-migration (IM) models have become popular for explaining population divergence in the presence of migrations. Bayesian methods are commonly used to estimate IM models, but they are limited to small data analysis or simple model inference. Recently three methods, IMa3, MIST, and AIM, resolved these limitations. Here, we describe the major problems addressed by these three software and compare differences among their inference methods, despite their use of the same standard likelihood function.
