@@ -1,0 +1,3 @@
+Phylogeny reconstruction based on the length distribution of k-mismatch common substrings
+
+Various approaches to alignment-free sequence comparison are based on the length of exact or inexact word matches between pairs of input sequences. Haubold et al. (J Comput Biol 16:1487–1500, 2009) showed how the average number of substitutions per position between two DNA sequences can be estimated based on the average length of exact common substrings. In this paper, we study the length distribution of k-mismatch common substrings between two sequences. We show that the number of substitutions per position can be accurately estimated from the position of a local maximum in the length distribution of their k-mismatch common substrings.
